@@ -4,26 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="350e4603-13d0-4354-a680-70ec9261e33d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/main/java/com/study/springstudy1/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/main/java/com/study/springstudy1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/main/java/com/study/springstudy1/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/main/java/com/study/springstudy2/SpringStudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/main/java/com/study/springstudy2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/main/java/com/study/springstudy2/UserDao.java" afterDir="false" />
+    <list default="true" id="350e4603-13d0-4354-a680-70ec9261e33d" name="변경" comment="변경">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_experimental_spring_native_0_10_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringStudy_1.1~1.3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy_1.1~1.3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/main/java/com/study/springstudy/SpringStudyApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/test/java/com/study/springstudy/SpringStudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/test/java/com/study/springstudy1/SpringStudyApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringStudy_1.1~1.3/src/main/resources/application.properties" beforeDir="false" />
     </list>
-=======
-    <list default="true" id="350e4603-13d0-4354-a680-70ec9261e33d" name="변경" comment="" />
->>>>>>> ec9c42ff2a2036d5714d9a6e84f533c7d26a73d3
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,22 +31,47 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="ac48b0cc-5e72-485b-867a-599f6dc183e8" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="20gvChqGdTsYsDqnKZoTFzyTxEd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringStudy_1.1~1.3" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> ec9c42ff2a2036d5714d9a6e84f533c7d26a73d3
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/hantaemin/Project/SpringStudy",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "8ae9cc1a07cea57611c93dce4d2ddd65",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="이름이 지정되지 않았습니다" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="SpringStudy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.springwithjava.SpringStudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-f644763e9732-e2c057a1" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,12 +82,15 @@
       <option name="presentableId" value="Default" />
       <updated>1636478921267</updated>
       <workItem from="1636478922826" duration="113000" />
-<<<<<<< HEAD
       <workItem from="1636479049699" duration="223000" />
       <workItem from="1638293177649" duration="382000" />
-=======
       <workItem from="1636479049699" duration="139000" />
->>>>>>> ec9c42ff2a2036d5714d9a6e84f533c7d26a73d3
+      <workItem from="1653208008260" duration="2204000" />
+      <workItem from="1653213501180" duration="881000" />
+      <workItem from="1653222153332" duration="825000" />
+      <workItem from="1672826781621" duration="608000" />
+      <workItem from="1673916195385" duration="11000" />
+      <workItem from="1704948263833" duration="59000" />
     </task>
     <servers />
   </component>
@@ -79,9 +107,5 @@
         </entry>
       </map>
     </option>
-<<<<<<< HEAD
-    <option name="oldMeFiltersMigrated" value="true" />
-=======
->>>>>>> ec9c42ff2a2036d5714d9a6e84f533c7d26a73d3
   </component>
 </project>
